@@ -1,7 +1,7 @@
 # Project-3
 
-2 branches so far, main and development.the main/master branch will include the concise version whereas the dev one will serve as an integration branch for features.
-again in this repo credentials and sensetive info will be stored in the simple .gitignore file in this repo to prevent them from being committed accidentally.
+2 branches so far, main and development.The main/master branch will include the concise version whereas the dev one will serve as an integration branch for features.
+Again in this repo credentials and sensetive info will be stored in the simple .gitignore file in this repo to prevent them from being committed accidentally.
 
 
 
