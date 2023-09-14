@@ -5,7 +5,7 @@ Again in this repo credentials and sensetive info will be stored in the simple .
 
 An ASP.NET Core MVC Web Application project  named 'EcoPower_Logistics' has been uploaded to be  enhanced and improved. This project'purpose is to demonstrate the skill of adapting and using existing code instead of rewriting code over and over again.This  .NET Core MVC Web Applicatiion will then be Hosted on Cloud 
 
--> for Product Repository I implement the (basic level tier 1) repository pattern then for the remaining repository classes advanced level tier 3 is implemented. 
+-> for Product Repository and product controller I implement the (basic level tier 1 ) repository pattern then for the remaining repository classes advanced level tier 2 is implemented. 
 
 
 **current Burn down chart**
