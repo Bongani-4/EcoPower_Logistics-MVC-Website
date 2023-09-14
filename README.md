@@ -5,6 +5,25 @@ Again in this repo credentials and sensetive info will be stored in the simple .
 
 An ASP.NET Core MVC Web Application project  named 'EcoPower_Logistics' has been uploaded to be  enhanced and improved. This project'purpose is to demonstrate the skill of adapting and using existing code instead of rewriting code over and over again.This  .NET Core MVC Web Applicatiion will then be Hosted on Cloud 
 
+**current Burn down chart**
+
+Sprint BurnDown Chart												
+												
+Tasks		Hours	Day 1	Day 2	Day 3	Day 4	Day 5	Day 6	Day 7	Day 8	Day 9	Day 10
+"GitHub Administration	Create and Configure GitHub Repository"		0,5	0,5									
+Project Progress		0,5	0,5									
+Access the existing project		3		2	1							
+Connect the Web App to the data source		3			1				1		1	
+Create Repository Classes		3			1			2	1			
+Transfer data access operations		3		2			-1	-1	1	-2	1	3
+Implement repository classes		3		1			1		1			
+Web API Cloud Hosting and Security		5		2	1		-2	3				1
+	Actual Effort	21	20	13	9	9	11	7	3	5	3	-1
+	Estimated Effort	21	18,9	16,8	14,7	12,6	10,5	8,4	6,3	4,2	2,1	0
+![image](https://github.com/Bongani-4/CMPG-323--overview/assets/140083292/c720feeb-7cac-42cb-b52f-c9edf2a3a0bb)
+
+![image](https://github.com/Bongani-4/CMPG-323--overview/assets/140083292/ca3698c9-572c-414a-a0ee-911ec1089bd9)
+
 
 
 
