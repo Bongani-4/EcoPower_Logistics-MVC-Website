@@ -5,11 +5,25 @@ Again in this repo credentials and sensetive info will be stored in the simple .
 
 An ASP.NET Core MVC Web Application project  named 'EcoPower_Logistics' has been uploaded to be  enhanced and improved. This project'purpose is to demonstrate the skill of adapting and using existing code instead of rewriting code over and over again.This  .NET Core MVC Web Applicatiion will then be Hosted on Cloud 
 
--> for Product Repository and product controller I implement the (basic level tier 1 ) repository pattern then for the remaining repository classes advanced level tier 2 is implemented. 
+**->** for Product Repository and product controller I implement the (basic level tier 1 ) repository pattern then for the remaining repository classes advanced level tier 2 is implemented. 
 
-On this image is the logical perspective of this web app
+On this image is the logical perspective of this web app(note, 'data layer' should be  "data layer &Repository layer" only in this diagram).
 
 ![diagram drawio](https://github.com/Bongani-4/CMPG-323-Project-3_35016752/assets/140083292/e058a270-2d04-4060-9c33-2f68e7c76d6c)
+
+How data access is divided is as follows:
+
+**->** In order to connect with product data,
+
+ProductsController requires the _productRepository.
+
+The _orderRepository is used by OrdersController to communicate with order data.
+
+CustomersController interacts with customer data via the _customerRepository.
+
+As a result, the controllers are in charge of handling HTTP requests, controlling the data flow between the view classes and repository classes, and providing pertinent responses. The database's data is accessed and updated by the repository classes, on the other hand.
+
+Since the data access logic is contained within the repository classes due to this separation, it is possible to change the data access strategy without having an impact on the controllers. Additionally, it follows the SOLID principle of single responsibility.
 
 
 **current Burn down chart**
