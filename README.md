@@ -54,8 +54,7 @@ Web API Cloud Hosting and Security		5		2	1		-2	3				1
 
 
 
-
-
+The app is hosted on Microsoft azure,accessed via ecopowerlogistics35016752.azurewebsites.net
 
 
 
