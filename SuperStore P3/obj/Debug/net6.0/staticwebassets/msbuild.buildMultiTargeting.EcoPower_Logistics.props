@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EcoPower_Logistics.props" />
+</Project>
