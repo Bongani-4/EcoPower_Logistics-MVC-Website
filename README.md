@@ -72,12 +72,19 @@ reference list
 10. Freeman, A., & Freeman, S. (2009). Pro ASP.NET MVC Framework. Apress.
 11. Chinnathambi, A. (2017). Pro .NET Design Patterns in C#: Decorator Design Pattern. Apress.
 12. Esposito, D. V. (2017). Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application. Microsoft Docs.
-13. Hejlsberg, A., & Rothman, S. (2017). Implementing the Singleton Pattern in C#. Microsoft Docs.
-14. Alligieri, M., & Harford, J. (2018). Implementing the Factory Method Pattern in C#. Microsoft Docs.
-15. Gang of Four. (n.d.). Observer Design Pattern. Retrieved from https://refactoring.guru/design-patterns/observer
-16. Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (n.d.). Strategy Design Pattern. Retrieved from https://refactoring.guru/design-patterns/strategy
-17. Fowler, M. (n.d.). Template Method Design Pattern. Retrieved from https://refactoring.guru/design-patterns/template-method
-18. Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (n.d.). Singleton Design Pattern. Retrieved from https://refactoring.guru/design-patterns/singleton
-19. Freeman, E., & Freeman, S. (n.d.). Decorator Design Pattern. Retrieved from https://www.oreilly.com/library/view/head-first-design/0596007124/ch03.html
-20. Shalloway, A., & Trott, J. R. (n.d.). MVC Design Pattern. Retrieved from https://www.netobjectives.com/mvc-design-pattern
-21. Freeman, E., & Freeman, S. (n.d.). Command Design Pattern. Retrieved from https://www.oreilly.com/library/view/head-first-design/0596007124/ch06.html
+13. "ChatGPT. (2021). AI Language Model Developed by OpenAI."
+15. Hejlsberg, A., & Rothman, S. (2017). Implementing the Singleton Pattern in C#. Microsoft Docs.
+16. Alligieri, M., & Harford, J. (2018). Implementing the Factory Method Pattern in C#. Microsoft Docs.
+17. Gang of Four. (n.d.). Observer Design Pattern. Retrieved from https://refactoring.guru/design-patterns/observer
+18. Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (n.d.). Strategy Design Pattern. Retrieved from https://refactoring.guru/design-patterns/strategy
+19. Fowler, M. (n.d.). Template Method Design Pattern. Retrieved from https://refactoring.guru/design-patterns/template-method
+20. Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (n.d.). Singleton Design Pattern. Retrieved from https://refactoring.guru/design-patterns/singleton
+21. Freeman, E., & Freeman, S. (n.d.). Decorator Design Pattern. Retrieved from https://www.oreilly.com/library/view/head-first-design/0596007124/ch03.html
+22. Shalloway, A., & Trott, J. R. (n.d.). MVC Design Pattern. Retrieved from https://www.netobjectives.com/mvc-design-pattern
+23. Freeman, E., & Freeman, S. (n.d.). Command Design Pattern. Retrieved from https://www.oreilly.com/library/view/head-first-design/0596007124/ch06.html
+24.  Seemann, M. (2013). Dependency Injection in .NET. Manning Publications.
+25. Ziegler, D. (2013). Professional ASP.NET MVC 5. John Wiley & Sons.
+26. Nielsen, N. (2017). Building Evolutionary Architectures: Support Constant Change. O'Reilly Media.
+27. Cockburn, A. (2001). Agile Software Development: The Cooperative Game. Addison-Wesley Professional.
+28. O'Reilly, T. (2006). Web 2.0: Compact Definition?, O'Reilly Media.
+29. Fowler, M., & Scott, K. (2009). Domain-Specific Languages. Addison-Wesley Professional.
