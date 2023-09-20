@@ -1,4 +1,5 @@
  # Project-3
+ !IGNORE THE SUPERSTORE FILE APPLOADED A WEEK AGO, THERE IS NOTHING DONE THERE.The work i did is on the recent uploaded file.
 
 2 branches so far, main and development.The main/master branch will include the concise version whereas the dev one will serve as an integration branch for features.
 Again in this repo credentials and sensetive info will be stored in the simple .gitignore file in this repo to prevent them from being committed accidentally.
