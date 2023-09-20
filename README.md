@@ -1,7 +1,7 @@
  # Project-3
  
  
- ! IGNORE THE "SUPERSTORE P3" FILE APPLOADED A WEEK AGO, THERE IS NOTHING DONE THERE.The work i did is on the recent uploaded file found on the master branch.
+ ! IGNORE THE "SUPERSTORE P3" FILE APPLOADED A WEEK AGO on main branch, nothing done there.The work i did is on the recent uploaded file found on the master branch.Been working on the main branch untill it started giving me unnecessary problems,so to assess for "11hours on the project", refer to main branch old commmits
 
 
 
