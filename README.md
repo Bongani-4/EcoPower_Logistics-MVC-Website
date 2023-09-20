@@ -14,7 +14,7 @@ An ASP.NET Core MVC Web Application project  named 'EcoPower_Logistics' has been
 
 **->** for Product Repository and product controller I implement the (basic level tier 1 ) repository pattern then for the remaining repository classes advanced level tier 2 is implemented. 
 
-On this image is the logical perspective of this web app(note, 'data layer' should be  "data layer &Repository layer" only in this diagram).
+On this image is the logical perspective of this web app(note, 'data layer' should be  "data layer &Repository layer" only in this class diagram).
 
 ![diagram drawio](https://github.com/Bongani-4/CMPG-323-Project-3_35016752/assets/140083292/e058a270-2d04-4060-9c33-2f68e7c76d6c)
 
